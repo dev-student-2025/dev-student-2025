@@ -2,7 +2,7 @@
 
 <img align='right' src='https://picsum.photos/300/300' width='300' alt="">
 
-我是一名软件技术专业的大二学生，目前正在学习前端开发和Java后端，在GitHub记录我的学习过程。
+我是一名软件技术专业的学生，目前正在学习前端开发和Java后端，在GitHub记录我的学习过程。
 
 ---
 
